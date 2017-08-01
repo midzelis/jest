@@ -19,6 +19,7 @@ type ResolverOptions = {|
   extensions?: Array<string>,
   moduleDirectory?: Array<string>,
   paths?: ?Array<Path>,
+  rootDir: ?Path,
 |};
 
 function defaultResolver(path: Path, options: ResolverOptions) {
