@@ -1,7 +1,7 @@
 {
   "name": "jest-cli",
   "description": "Delightful JavaScript Testing.",
-  "version": "20.0.6-0",
+  "version": "20.0.7-0",
   "main": "build/jest.js",
   "dependencies": {
     "ansi-escapes": "^2.0.0",
