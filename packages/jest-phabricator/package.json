@@ -1,12 +1,12 @@
 {
   "name": "jest-phabricator",
-  "version": "20.0.3",
+  "version": "20.0.5-0",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/jest.git"
   },
   "dependencies": {
-    "jest-util": "^20.0.3"
+    "jest-util": "^20.0.5-0"
   },
   "license": "BSD-3-Clause",
   "main": "build/index.js"
