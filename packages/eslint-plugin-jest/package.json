@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-jest",
-  "version": "21.2.0",
+  "version": "21.3.0-sfdc.1",
   "description": "Eslint rules for Jest",
   "repository": {
     "type": "git",
